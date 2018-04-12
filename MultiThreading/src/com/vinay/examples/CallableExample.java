@@ -11,7 +11,7 @@ import java.util.concurrent.Future;
 
 
 class MyCallable implements Callable
-{int num=1;
+{int num=2;
 
 
 	public MyCallable(int num) {
